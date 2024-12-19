@@ -1,4 +1,4 @@
-# Madhav_E-Commerce_Dashboard
+# Madhav E-Commerce Dashboard
 power bi dashboard
 The Madhav Ecommerce Sales Dashboard, created in Power BI, provides a detailed analysis of sales performance across multiple dimensions.
 Displays key metrics: Quantity Sold (5615), Profit (37K), Total Sales (4388K).
